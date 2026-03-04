@@ -18,7 +18,7 @@ Currently working as fullstack developer
 ## **My Projects**
 
 - Cabriolet : A carpooling application for users to carpool and get the cheapest and best rides.
-- - Microservice structure
+  - Microservice structure
   - Frontend through ReactJs
   - Backend in .NET Core
   - Supabase handles the database
