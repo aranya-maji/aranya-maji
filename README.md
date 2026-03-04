@@ -7,7 +7,7 @@ I'm **Aranya Maji**
 
 Currently working as fullstack developer
 
-- ![.NET](https://img.shields.io/badge/.NET-Developer-blue) **.NET** is the Backend
+- **.NET** is the Backend
 - **.NET and React** is the Frontend
 - **SQL Server, MySQL, PostgreSQL** is the Database
 - **Docker and Kubernetes** is in learning
@@ -16,6 +16,7 @@ Currently working as fullstack developer
 <img src="https://skillicons.dev/icons?i=dotnet,cs,react,postgres,mysql,supabase,docker,kubernetes,unity" />
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ![](https://komarev.com/ghpvc/?username=aranya-maji)
