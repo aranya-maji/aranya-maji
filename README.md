@@ -15,6 +15,15 @@ Currently working as fullstack developer
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,react,postgres,mysql,supabase,docker,kubernetes,unity" />
 
+## **My Projects**
+
+- Cabriolet : A carpooling application for users to carpool and get the cheapest and best rides.
+- - Microservice structure
+  - Frontend through ReactJs
+  - Backend in .NET Core
+  - Supabase handles the database
+  - In progress project
+
 ## **Profile Summary**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aranya-maji&theme=tokyonight)
