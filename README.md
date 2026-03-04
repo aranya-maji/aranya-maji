@@ -30,6 +30,7 @@ Currently working as fullstack developer
   - Error resolution needs to be done
  
 - Portfolio : https://aranyamaji-0728.web.app/
+- Graphic Portfolio : https://aranyamaji-graphic.web.app/
 
 ## **Profile Summary**
 
