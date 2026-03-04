@@ -7,7 +7,7 @@ I'm **Aranya Maji**
 
 Currently working as fullstack developer
 
-- **.NET** is the Backend
+- ![.NET](https://img.shields.io/badge/.NET-Developer-blue) **.NET** is the Backend
 - **.NET and React** is the Frontend
 - **SQL Server, MySQL, PostgreSQL** is the Database
 - **Docker and Kubernetes** is in learning
