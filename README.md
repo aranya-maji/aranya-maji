@@ -27,6 +27,4 @@ Currently working as fullstack developer
 
 [![Aranya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aranya-maji&theme=tokyo-night)]()
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ![](https://komarev.com/ghpvc/?username=aranya-maji)
