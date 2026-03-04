@@ -5,8 +5,10 @@
 I'm **Aranya Maji**  
 .NET Developer | React Frontend Developer | System Architecture and Designing enthusiast
 
-- :computer: Currently working on **.NET Core** as Backend Developer
-- :milky_way:	Using **ReactJs** as Frontend Developer
-- 
+Currently working as fullstack developer
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,unity,python,docker,git,github" />
+- <img src="https://skillicons.dev/icons?i=dotnet,cs" /> Backend
+- <img src="https://skillicons.dev/icons?i=dotnet,react" />	Frontend
+- <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" /> Database
+- <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> Learning and practising
+- <img src="https://skillicons.dev/icons?i=unity" /> Timepass
