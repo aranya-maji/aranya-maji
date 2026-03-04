@@ -14,3 +14,5 @@ Currently working as fullstack developer
 - **Unity** is Timepass
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,react,postgres,mysql,supabase,docker,kubernetes,unity" />
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
