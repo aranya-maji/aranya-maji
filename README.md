@@ -23,6 +23,13 @@ Currently working as fullstack developer
   - Backend in .NET Core
   - Supabase handles the database
   - In progress project
+ 
+- Perceptron : A full fledged perceptron model implemented from scratch
+  - In C# / .NET
+  - Fully customisable parameters
+  - Error resolution needs to be done
+ 
+- Portfolio : https://aranyamaji-0728.web.app/
 
 ## **Profile Summary**
 
