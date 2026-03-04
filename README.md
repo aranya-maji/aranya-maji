@@ -7,3 +7,6 @@ I'm **Aranya Maji**
 
 - :computer: Currently working on **.NET Core** as Backend Developer
 - :milky_way:	Using **ReactJs** as Frontend Developer
+- 
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,unity,python,docker,git,github" />
