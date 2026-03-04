@@ -7,8 +7,10 @@ I'm **Aranya Maji**
 
 Currently working as fullstack developer
 
-- <img src="https://skillicons.dev/icons?i=dotnet,cs" /> Backend
-- <img src="https://skillicons.dev/icons?i=dotnet,react" />	Frontend
-- <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" /> Database
-- <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> Learning and practising
-- <img src="https://skillicons.dev/icons?i=unity" /> Timepass
+- **.NET** is the Backend
+- **.NET and React** is the Frontend
+- **SQL Server, MySQL, PostgreSQL** is the Database
+- **Docker and Kubernetes** is in learning
+- **Unity** is Timepass
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,react,postgres,mysql,supabase,docker,kubernetes,unity" />
