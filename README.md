@@ -40,8 +40,4 @@ Currently working as fullstack developer
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aranya-maji&theme=tokyonight)
 
-## **My Activity**
-
-[![Aranya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aranya-maji&theme=tokyo-night)]()
-
 ![](https://komarev.com/ghpvc/?username=aranya-maji)
